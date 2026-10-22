@@ -1,0 +1,2718 @@
+[
+  {
+    "id": 1,
+    "question": "Primary markets are markets in which users of funds raise cash by selling securities to funds suppliers.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 2,
+    "question": "Secondary markets are markets used by corporations to raise cash by issuing securities for a short time period.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 3,
+    "question": "Corporate security issuers are always directly involved in funds transfers in the secondary market.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 4,
+    "question": "The NYSE is an example of a secondary market.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets. Accessibility:  Keyboard Navigation 1 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "Central governments sometimes indirectly intervene in foreign exchange markets by affecting foreign exchange rates through raising or lowering interest rates.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 6,
+    "question": "Money markets are the markets for securities with an original maturity of one year or less.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-02 Differentiate between money and capital markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 7,
+    "question": "Financial intermediaries rather than financial systems are the most common agents to channel funds from the suppliers to the users of funds.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Institutions Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-06 Know the services financial institutions perform. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 8,
+    "question": "There are three types of major financial markets today: primary, secondary, and derivatives markets. The NYSE and NASDAQ are both examples of derivatives markets.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets.; 01-04 Understand what derivative security markets are. Accessibility:  Keyboard Navigation 2 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 9,
+    "question": "Asset transformation by financial intermediaries involves increasing the risk attributes of securities such as mortgages, bonds, and stocks.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Institutions Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-06 Know the services financial institutions perform.; 01-07 Know the risks financial institutions face. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 10,
+    "question": "One of the factors responsible for globalization of financial markets and institutions is deregulation.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Globalization of Financial Markets and Institutions Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-09 Recognize that financial markets are becoming increasingly global. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 11,
+    "question": "The average cost incurred by financial institutions to collect information is larger than that of individuals.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Institutions Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-06 Know the services financial institutions perform. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 12,
+    "question": "The V olcker Rule prohibits U.S. depository institutions from engaging in proprietary trading.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-04 Understand what derivative security markets are. Accessibility:  Keyboard Navigation 3 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 13,
+    "question": "Financial intermediation provides direct transfer of funds to the users.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Institutions Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-05 Distinguish between the different types of financial institutions. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 14,
+    "question": "In the United States the SEC provides deposit insurance for $250,000 per person per bank.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Institutions Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-08 Appreciate why financial institutions are regulated. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 15,
+    "question": "Enterprise Risk Management (ERM) system is responsible for managing the totality of a firm's risk exposures.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Overview of Financial Institutions Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-08 Appreciate why financial institutions are regulated. Accessibility:  Keyboard Navigation 4 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 16,
+    "question": "What factors are encouraging financial institutions to offer overlapping financial services such as banking, investment banking, brokerage, etc.? I. Regulatory changes allowing institutions to offer more services II. Technological improvements reducing the cost of providing financial services III. Increasing competition from full-service global financial institutions IV . Reduction in the need to manage risk at financial institutions",
+    "options": {
+      "A": "I only",
+      "B": "II and III only",
+      "C": "I, II, and III only",
+      "D": "I, II, and IV only E) I, II, III, and IV Difficulty: 1 Easy Topic:  Overview of Financial Institutions Bloom's:  Evaluate AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  01-08 Appreciate why financial institutions are regulated. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 17,
+    "question": "IBM creates and sells additional stock to the investment banker Morgan Stanley. Morgan Stanley then resells the issue to the U.S. public through its mutual funds. This transaction is an example of a(n)",
+    "options": {
+      "A": "primary market transaction.",
+      "B": "asset transformation by Morgan Stanley.",
+      "C": "money market transaction.",
+      "D": "foreign exchange transaction. E) forward transaction. Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Analyze AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets. Accessibility:  Keyboard Navigation 5 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 18,
+    "question": "IBM creates and sells additional stock to the investment banker Morgan Stanley. Morgan Stanley then resells the issue to the U.S. public through its mutual funds. Morgan Stanley is acting as a(n)",
+    "options": {
+      "A": "asset transformer.",
+      "B": "asset broker.",
+      "C": "government regulator.",
+      "D": "foreign service representative. E) derivatives trader. Difficulty: 2 Medium Topic:  Overview of Financial Institutions Bloom's:  Analyze AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  01-06 Know the services financial institutions perform. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 19,
+    "question": "A corporation seeking to sell new equity securities to the public for the first time in order to raise cash for capital investment would most likely",
+    "options": {
+      "A": "conduct an IPO with the assistance of an investment banker.",
+      "B": "engage in a secondary market sale of equity.",
+      "C": "conduct a private placement to a large number of potential buyers.",
+      "D": "place an ad in the Wall Street Journal soliciting retail suppliers of funds. E) issue bonds with the assistance of a dealer. Difficulty: 2 Medium Topic:  Overview of Financial Markets Bloom's:  Evaluate AACSB:  Reflective Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets.; 01-02 Differentiate between money and capital markets. Accessibility:  Keyboard Navigation 6 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 21,
+    "question": "The diagram below is a diagram of the",
+    "options": {
+      "A": "secondary markets.",
+      "B": "primary markets.",
+      "C": "money markets.",
+      "D": "derivatives markets. E) commodities markets. Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Understand AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets. Accessibility:  Keyboard Navigation 7 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 22,
+    "question": "________ and ________ allow a financial intermediary to offer safe liquid liabilities such as deposits while investing the depositors' money in riskier illiquid assets.",
+    "options": {
+      "A": "Diversification; high equity returns",
+      "B": "Price risk; collateral",
+      "C": "Free riders; regulations",
+      "D": "Monitoring; diversification E) Primary markets; foreign exchange markets Difficulty: 2 Medium Topic:  Overview of Financial Institutions Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-06 Know the services financial institutions perform.; 01-07 Know the risks financial institutions face. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 5,
+    "question": "Mutual funds",
+    "options": {
+      "A": "1, 3, 2, 5, 4",
+      "B": "4, 2, 3, 5, 1",
+      "C": "2, 5, 1, 3, 4",
+      "D": "2, 4, 5, 3, 1 E) 5, 1, 3, 2, 4 Difficulty: 2 Medium Topic:  Overview of Financial Institutions Bloom's:  Understand; Analyze AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  01-06 Know the services financial institutions perform.; 01-05 Distinguish between the different types of financial institutions. Accessibility:  Keyboard Navigation 9 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 26,
+    "question": "Financial intermediaries (FIs) can offer savers a safer, more liquid investment than a capital market security, even though the intermediary invests in risky illiquid instruments because",
+    "options": {
+      "A": "FIs can diversify away some of their risk.",
+      "B": "FIs closely monitor the riskiness of their assets.",
+      "C": "the federal government requires them to do so.",
+      "D": "FIs can diversify away some of their risk and closely monitor the riskiness of their assets. E) FIs can diversify away some of their risk and the federal government requires them to do so. Difficulty: 1 Easy Topic:  Overview of Financial Markets; Overview of Financial Institutions Bloom's:  Evaluate AACSB:  Reflective Thinking Learning Goal:  01-02 Differentiate between money and capital markets.; 01-06 Know the services financial institutions perform. Accessibility:  Keyboard Navigation 10 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 4,
+    "question": "Stocks or bonds",
+    "options": {
+      "A": "2, 3, 4, 1",
+      "B": "1, 4, 2, 3",
+      "C": "3, 2, 1, 4",
+      "D": "1, 4, 3, 2 E) 4, 2, 1, 3 Difficulty: 2 Medium Topic:  Overview of Financial Markets; Overview of Financial Institutions Bloom's:  Evaluate; Analyze AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets.; 01-02 Differentiate between money and capital markets.; 01-06 Know the services financial institutions perform.; 01-05 Distinguish between the different types of financial institutions. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 28,
+    "question": "As of 2016, which one of the following derivatives instruments had the greatest amount of notional principal outstanding?",
+    "options": {
+      "A": "Futures",
+      "B": "Swaps",
+      "C": "Options",
+      "D": "Bonds E) Forwards Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-04 Understand what derivative security markets are. Accessibility:  Keyboard Navigation 11 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 29,
+    "question": "Which of the following is/are money market instrument(s)?",
+    "options": {
+      "A": "Negotiable CDs",
+      "B": "Common stock",
+      "C": "T-bonds",
+      "D": "4-year maturity corporate bond E) Negotiable CDs, common stock, and T-bonds Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  01-02 Differentiate between money and capital markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 30,
+    "question": "The Securities Exchange Commission (SEC) does not",
+    "options": {
+      "A": "decide whether a public issue is fairly priced.",
+      "B": "decide whether a firm making a public issue has provided enough information for investors to decide whether the issue is fairly priced.",
+      "C": "require exchanges to monitor trading to prevent insider trading.",
+      "D": "attempt to reduce excessive price fluctuations. E) monitor the major securities exchanges. Difficulty: 2 Medium Topic:  Overview of Financial Institutions Markets Bloom's:  Understand AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  01-08 Appreciate why financial institutions are regulated. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 31,
+    "question": "The most diversified type of depository institutions is",
+    "options": {
+      "A": "credit unions.",
+      "B": "savings associations.",
+      "C": "commercial banks.",
+      "D": "finance companies. E) mutual funds. Difficulty: 2 Medium Topic:  Overview of Financial Institutions Bloom's:  Remember AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  01-06 Know the services financial institutions perform.; 01-05 Distinguish between the different types of financial institutions. Accessibility:  Keyboard Navigation 12 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 33,
+    "question": "Depository institutions (DIs) play an important role in the transmission of monetary policy from the Federal Reserve to the rest of the economy because",
+    "options": {
+      "A": "loans to corporations are part of the money supply.",
+      "B": "bank and thrift loans are tightly regulated.",
+      "C": "U.S. DIs compete with foreign financial institutions.",
+      "D": "DI deposits are a major portion of the money supply. E) thrifts provide a large amount of credit to finance residential real estate. Difficulty: 3 Hard Topic:  Overview of Financial Institutions Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  01-06 Know the services financial institutions perform. Accessibility:  Keyboard Navigation 13 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 34,
+    "question": "Liquidity risk at a financial intermediary (FI) is the risk",
+    "options": {
+      "A": "that promised cash flows from loans and securities held by FIs may not be paid in full.",
+      "B": "incurred by an FI when the maturities of its assets and liabilities do not match.",
+      "C": "that a sudden surge in liability withdrawals may require an FI to liquidate assets quickly at fire sale prices.",
+      "D": "incurred by an FI when its investments in technology do not result in cost savings or revenue growth. E) risk that an FI may not have enough capital to offset a sudden decline in the value of its assets. Difficulty: 2 Medium Topic:  Overview of Financial Institutions Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-06 Know the services financial institutions perform. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 35,
+    "question": "Money markets trade securities that I. mature in one year or less. II. have little chance of loss of principal. III. must be guaranteed by the federal government.",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II only",
+      "D": "I and III only E) I, II, and III Difficulty: 2 Medium Topic:  Overview of Financial Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-02 Differentiate between money and capital markets. Accessibility:  Keyboard Navigation 14 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 38,
+    "question": "A negotiable CD is",
+    "options": {
+      "A": "a time draft payable to a seller of goods, with payment guaranteed by a bank.",
+      "B": "a loan to an individual or business to purchase a home, land, or other real property.",
+      "C": "a short-term fund transferred between financial institutions usually for no more than one day.",
+      "D": "a marketable bank-issued time deposit that specifies the interest rate earned and a fixed maturity date. E) a short-term unsecured promissory note issued by a company to raise funds for a short time period. Difficulty: 1 Easy Topic:  Overview of Financial Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-02 Differentiate between money and capital markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 39,
+    "question": "Financial intermediaries' ability to reduce the average cost of collecting information because of their efficient operations allows them to take advantage of",
+    "options": {
+      "A": "asset transformation.",
+      "B": "economies of scale.",
+      "C": "economies of scope.",
+      "D": "transformational trading. E) standardization. Difficulty: 2 Medium Topic:  Overview of Financial Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  01-02 Differentiate between money and capital markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 40,
+    "question": "Discuss how secondary markets benefit issuers and investors.",
+    "options": {
+      "A": "True",
+      "B": "False security. This liquidity encourages them to purchase the security at the initial offer. The current market price also reflects current prospects for the firm and the competitiveness of the issue relative to similar securities. Corporate treasurers follow their stocks' price closely because the stock price reflects how well their firm and the market are performing. The current security price also provides information about the cost of obtaining any additional funds. Difficulty: 2 Medium Topic:  Overview of Financial Markets Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  01-01 Differentiate between primary and secondary markets. Accessibility:  Keyboard Navigation 16 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 49,
+    "question": "What determines the price of financial instruments? Which are riskier, capital market instruments or money market instruments? Why?",
+    "options": {
+      "A": "True",
+      "B": "False discounted at an appropriate rate. A small change in interest rates causes a large change in present value of distant cash flows. Hence, the prices of long-term capital market instruments are more sensitive to changes in interest rates than prices of short-term instruments. In addition, distant cash flows for stocks are not known with certainty. Changing economic prospects can cause very large changes in current stock values. Money market instruments have predictable cash flows and mature in one year or less, so they are much less risky. Difficulty: 2 Medium Topic:  Overview of Financial Institutions Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  01-06 Know the services financial institutions perform.; 01-05 Distinguish between the different types of financial institutions. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 50,
+    "question": "Explain how the credit crunch originating in the mortgage markets hurt financial intermediaries' attempts to use diversification and monitoring to limit the riskiness of their loans and investments while offering more liquid claims to savers.",
+    "options": {
+      "A": "True",
+      "B": "False when large portions of the debt markets \"seized up\" and stopped functioning. At that point many security prices declined all at once, regardless of historical correlations among security prices. This is a failure of diversification to reduce risk. FIs exploit diversification principles and economies of scale to allow the FI to invest large amounts of money. They also must closely monitor the riskiness of their loans and securities, and many FIs are also regulated by the government to ensure they manage the riskiness of their assets. Some would argue that FIs failed to monitor the riskiness of many of their mortgage investments as well, leading to large numbers of poor investments. Difficulty: 3 Hard Topic:  Overview of Financial Markets Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  01-02 Differentiate between money and capital markets.; 01-08 Appreciate why financial institutions are regulated. Accessibility:  Keyboard Navigation 23 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Studocu is not sponsored or endorsed by any college or university Chapter 04 TB Answer Key Corporate finance (Macau University of Science and Technology) Studocu is not sponsored or endorsed by any college or university Chapter 04 TB Answer Key Corporate finance (Macau University of Science and Technology) Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Financial Markets and Institutions, 8e (Saunders) Chapter 4   The Federal Reserve System, Monetary Policy, and Interest Rates"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 1,
+    "question": "Federal Reserve interest rate decisions can be vetoed by the U.S. president or the Congress.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Major Duties and Responsibilities of the Federal Reserve System: Chapter Overview Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-01 Understand the major functions of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 2,
+    "question": "Four seats on the FOMC are allocated to Federal Reserve Bank presidents on an annual rotating basis.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 3,
+    "question": "The monetary base is the amount of coin and currency in circulation plus reserves.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 4,
+    "question": "Nationally chartered banks are required to become members of the Federal Reserve System.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation 1 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "About 34 percent of all U.S. banks are members of the Federal Reserve System.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 6,
+    "question": "The major asset of the Federal Reserve is currency outside banks and the major liability is U.S. Treasury securities.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 7,
+    "question": "The seven members of the Board of Governors of the Federal Reserve System serve 14-year nonrenewable terms. Each Board member is appointed by the president and confirmed by the Senate.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 8,
+    "question": "Federal Reserve Board members are appointed by the U.S. president and confirmed by the Senate for a nonrenewable 14-year term.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation 2 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 9,
+    "question": "If the FOMC wished to generate faster economic growth, they could issue a policy directive to the Federal Reserve Board Trading Desk to purchase U.S. government securities.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Structure of the Federal Reserve System Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 10,
+    "question": "An increase in Treasury securities held by the Fed leads to a decrease in the money supply.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Structure of the Federal Reserve System Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 11,
+    "question": "One of the objectives of the FOMC is to formulate policies to promote 100 percent employment.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Federal Open Market Committee Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 12,
+    "question": "During the 2010–2014 period, the Federal Reserve purchased long-term treasury securities as part of the Quantitative Easing program.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Open Market Operations Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation 3 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 13,
+    "question": "Quantitative Easing program initiated by the Federal Reserve during the 2010–2014 period, involved the purchase of long-term corporate bonds.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Open Market Operations Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-04 Appreciate how monetary policy changes affect key economic variables. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 14,
+    "question": "According to the current FOMC stances, inflation targeting promotes maximum employment.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Effects of monetary tools on various economic variables Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 15,
+    "question": "Countries with independent central banks are subject to political pressure to conduct monetary policies with short-term expectations.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  International Monetary Policies and Strategies Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-05 Understand how central banks around the world adjusted their monetary policy during the recent financial crisis. Accessibility:  Keyboard Navigation 4 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 18,
+    "question": "The ________ is a nationwide network jointly operated by the Fed and private institutions that electronically process credit and debit transfers of funds.",
+    "options": {
+      "A": "Fedwire",
+      "B": "ACH",
+      "C": "CHIPS",
+      "D": "NASDAQ E) SWIFT Difficulty: 1 Easy Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation 5 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 19,
+    "question": "The ________ is a network linking over 9,000 banks with the Federal Reserve that is used to transfer deposits and make loan payments between participants.",
+    "options": {
+      "A": "Fedwire",
+      "B": "ACH",
+      "C": "CHIPS",
+      "D": "NASDAQ E) SWIFT Difficulty: 1 Easy Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 20,
+    "question": "Ceteris paribus, if the Fed was targeting the quantity of money supplied and money demand dropped, the Fed would likely ________. If the Fed was instead targeting interest rates and money demand dropped, the Fed would likely ________.",
+    "options": {
+      "A": "increase the money supply; do nothing",
+      "B": "do nothing; decrease the money supply",
+      "C": "decrease the money supply; do nothing",
+      "D": "do nothing; increase the money supply E) increase the money supply; decrease the money supply Difficulty: 3 Hard Topic:  The Federal Reserve, the Money Supply, and Interest Rates Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  04-04 Appreciate how monetary policy changes affect key economic variables. Accessibility:  Keyboard Navigation 6 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is the major monetary policy-making body of the U.S. Federal Reserve System?",
+    "options": {
+      "A": "FOMC",
+      "B": "OCC",
+      "C": "FRB bank presidents",
+      "D": "U.S. Congress E) Group of Eight Difficulty: 1 Easy Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 22,
+    "question": "The major liability of the Federal Reserve is",
+    "options": {
+      "A": "U.S. Treasury securities.",
+      "B": "depository institution reserves.",
+      "C": "currency outside banks.",
+      "D": "vault cash of commercial banks. E) gold and foreign exchange. Difficulty: 2 Medium Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 23,
+    "question": "The major asset of the Federal Reserve is",
+    "options": {
+      "A": "U.S. Treasury securities.",
+      "B": "depository institution reserves.",
+      "C": "currency outside banks.",
+      "D": "vault cash of commercial banks. E) gold and foreign exchange. Difficulty: 2 Medium Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation 7 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 24,
+    "question": "The Fed funds rate is the rate that",
+    "options": {
+      "A": "banks charge for loans to corporate customers.",
+      "B": "banks charge to lend foreign exchange to customers.",
+      "C": "the Federal Reserve charges on emergency loans to commercial banks.",
+      "D": "banks charge each other on loans of excess reserves. E) banks charge securities dealers to finance their inventory. Difficulty: 2 Medium Topic:  Monetary Policy Tools Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 26,
+    "question": "The Fed offers three types of discount window loans. ________ credit is offered to small institutions with demonstrable patterns of financing needs, ________ credit is offered for short- term temporary funds outflows, and ________ credit may be offered at a higher rate to troubled institutions with more severe liquidity problems.",
+    "options": {
+      "A": "Seasonal; extended; adjustment",
+      "B": "Extended; adjustment; seasonal",
+      "C": "Adjustment; extended; seasonal",
+      "D": "Seasonal; primary; secondary E) Adjustment; seasonal; extended Difficulty: 2 Medium Topic:  Monetary Policy Tools Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation 8 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 27,
+    "question": "Before 2003 the discount window loan rate was set",
+    "options": {
+      "A": "below the target Fed funds rate.",
+      "B": "above the target Fed funds rate.",
+      "C": "equal to the target Fed funds rate.",
+      "D": "equal to the repurchase rate. Difficulty: 2 Medium Topic:  Monetary Policy Tools Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 28,
+    "question": "A decrease in reserve requirements could lead to an",
+    "options": {
+      "A": "increase in bank lending.",
+      "B": "increase in the money supply.",
+      "C": "increase in the discount rate.",
+      "D": "increase in bank lending and an increase in the money supply. E) increase in bank lending and an increase in the discount rate. Difficulty: 2 Medium Topic:  Monetary Policy Tools Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation 9 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 29,
+    "question": "Bank A has an increase in deposits of $20 million dollars and all bank reserve requirements are 10 percent. Bank A loans out the full amount of the deposit increase that is allowed. This amount winds up deposited in Bank B. Bank B lends out the full amount possible as well and this amount winds up deposited in Bank C. What is the total increase in deposits resulting from these three banks?",
+    "options": {
+      "A": "$48.00 million",
+      "B": "$54.20 million",
+      "C": "$56.33 million",
+      "D": "$57.10 million E) $60.00 million Explanation:  20 + (20 × 0.90) + (18 × 0.90) Difficulty: 2 Medium Topic:  Monetary Policy Tools Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 30,
+    "question": "The Fed changes reserve requirements from 10 percent to 7 percent, thereby creating $900 million in excess reserves. The total change in deposits (with no drains) would be",
+    "options": {
+      "A": "$3,000 million.",
+      "B": "$15,625 million.",
+      "C": "$12,857 million.",
+      "D": "$3,795 million. E) None of these choices are correct. Explanation:  (1/0.07) × $900 million Difficulty: 2 Medium Topic:  Monetary Policy Tools Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation 10 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 31,
+    "question": "If the Fed wishes to stimulate the economy, it could I. buy U.S. government securities. II. raise the discount rate. III. lower reserve requirements.",
+    "options": {
+      "A": "I and III only",
+      "B": "II and III only",
+      "C": "I and II only",
+      "D": "II only E) I, II, and III Difficulty: 2 Medium Topic:  Monetary Policy Tools Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 32,
+    "question": "Currently the Fed sets monetary policy by targeting",
+    "options": {
+      "A": "the Fed funds rate.",
+      "B": "the prime rate.",
+      "C": "the level of nonborrowed reserves.",
+      "D": "the level of borrowed reserves. E) the stock market. Difficulty: 1 Easy Topic:  Monetary Policy Tools Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation 11 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 33,
+    "question": "From October 1983 to July 1993, the Federal Reserve targeted",
+    "options": {
+      "A": "the Fed funds rate.",
+      "B": "borrowed reserves.",
+      "C": "nonborrowed reserves.",
+      "D": "M1. E) M3. Difficulty: 2 Medium Topic:  Monetary Policy Tools Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 34,
+    "question": "Assume oil prices rise in the United States, generating concerns that inflation may increase. If the Fed wishes to ensure that inflation does not get out of hand, the Fed could",
+    "options": {
+      "A": "intervene in the currency markets to push the value of the dollar down.",
+      "B": "decrease the discount rate.",
+      "C": "lower the target Fed funds rate.",
+      "D": "lower the target money supply growth rate. E) reduce reserve requirements at banks. Difficulty: 2 Medium Topic:  The Federal Reserve, the Money Supply, and Interest Rates Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  04-04 Appreciate how monetary policy changes affect key economic variables. Accessibility:  Keyboard Navigation 12 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 35,
+    "question": "The Fed changes reserve requirements from 10 percent to 14 percent, thereby eliminating $750 million in excess reserves. The total change in deposits (with no drains) would be (rounded)",
+    "options": {
+      "A": "$7.917 billion.",
+      "B": "$6.630 billion.",
+      "C": "$5.357 billion.",
+      "D": "$4.934 billion. E) None of these choices are correct. Explanation:  (1/0.14) × $750 million Difficulty: 2 Medium Topic:  Monetary Policy Tools Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 36,
+    "question": "The Fed increases bank reserves in the system by $75 million. If there are no drains, the expected change in bank deposits is",
+    "options": {
+      "A": "$82.5 million.",
+      "B": "$945 million.",
+      "C": "$750 million.",
+      "D": "$1,500 million. E) $655 million. Explanation:  (1/0.10) × $75 million Difficulty: 2 Medium Topic:  Monetary Policy Tools Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation 13 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 37,
+    "question": "If the Fed is targeting interest rates and money demand increases, an appropriate policy response would be to",
+    "options": {
+      "A": "increase reserve requirements.",
+      "B": "increase the discount rate.",
+      "C": "buy U.S. Treasury securities from government bond dealers.",
+      "D": "increase government spending. E) None of these choices are correct. Difficulty: 2 Medium Topic:  The Federal Reserve, the Money Supply, and Interest Rates Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  04-04 Appreciate how monetary policy changes affect key economic variables. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 39,
+    "question": "In the area of bank supervision, which of the following are functions of the Federal Reserve Banks? I. Examinations of state member banks II. Approval of member bank and bank holding company acquisitions III. Deposit insurance",
+    "options": {
+      "A": "I only",
+      "B": "I and II only",
+      "C": "II and III only",
+      "D": "I and III only E) I, II, and III Difficulty: 2 Medium Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 40,
+    "question": "The Check 21 Act, effective in October 2004, does which of the following?",
+    "options": {
+      "A": "Allows bank customers to better take advantage of bank float",
+      "B": "Requires banks to immediately clear all customer deposits",
+      "C": "Prohibits the Fed from being involved in check clearing to prevent unfair competition with private check clearing agencies",
+      "D": "Authorizes the use of an electronic image to facilitate paperless check clearing E) Eliminates all fees on checking Difficulty: 2 Medium Topic:  Structure of the Federal Reserve System Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation 15 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is not a goal of monetary policy?",
+    "options": {
+      "A": "Moderate long-term interest rates.",
+      "B": "Stable interest rates.",
+      "C": "High employment.",
+      "D": "Stable prices. E) All of these choices are correct. Difficulty: 2 Medium Topic:  Major Duties and Responsibilities of the Federal Reserve System: Chapter Overview Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-01 Understand the major functions of the Federal Reserve System. Accessibility:  Keyboard Navigation 16 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is not a program initiated by world's major central banks during the financial crisis of 2007 to avoid a deep worldwide recession?",
+    "options": {
+      "A": "Expansion of retail deposit insurance",
+      "B": "Capital injections",
+      "C": "Purchase of U.S. dollars",
+      "D": "Debt guarantees E) Asset purchases/guarantees Difficulty: 2 Medium Topic:  International Monetary Policies and Strategies Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-05 Understand how central banks around the world adjusted their monetary policy during the recent financial crisis. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 45,
+    "question": "What are the intended consequences from charging an interest on excess reserves by Central banks?",
+    "options": {
+      "A": "Banks lend less money.",
+      "B": "Interest rates increase.",
+      "C": "Banks deposits increase.",
+      "D": "Banks lend more money. E) All of these choices are correct. Difficulty: 2 Medium Topic:  International Monetary Policies and Strategies Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  04-05 Understand how central banks around the world adjusted their monetary policy during the recent financial crisis. Accessibility:  Keyboard Navigation 17 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 50,
+    "question": "Why did the Fed switch from increasing rates prior to 2007 to reducing interest rates in 2007 and 2008?",
+    "options": {
+      "A": "True",
+      "B": "False mortgage markets. Many financial institutions held or guaranteed mortgage-backed securities, which were becoming increasingly risky in 2007 and early 2008. It became apparent that banks had made too many risky mortgage-backed loans with borrowed funds. Lenders to these institutions were wary of accepting mortgage collateral, causing short-term funding problems at banks and investment banks. The Fed began to aggressively cut interest rates to help the mortgage market, particularly the subprime portion, and to encourage economic growth. Banks were cutting risky lending because of the problems in their mortgage loans and mortgage-backed securities, and the resulting \"credit crunch\" (banks' unwillingness to lend) led to rapidly slowing economic growth. Difficulty: 3 Hard Topic:  Monetary Policy Tools Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  04-03 Identify the monetary policy tools used by the Federal Reserve. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 57,
+    "question": "Suppose that oil prices hit an all-time high of $200 a barrel, driving U.S. inflation up to 7 percent per year. At the same time, weak U.S. growth and increasing foreign competition have generated unacceptably high levels of unemployment in the United States. You are the chair of the Federal Reserve. What do you suggest?",
+    "options": {
+      "A": "True",
+      "B": "False combination of high inflation and unemployment reduces the effectiveness of any monetary policy action to provide sustained relief to the economy's problem. Increasing bank excess reserves and lowering interest rates may reduce unemployment temporarily, but these actions will also likely exacerbate inflation, drive up wages, and with a higher labor supply cost, will eventually drive unemployment back up. The end result is that the employed and the unemployed face higher prices. Alternative policy actions may include fiscal spending, removing the factor(s) causing the problems (such as a supply constraint causing a lack of oil availability), or perhaps stimulating greater global growth to get U.S. domestic demand growing. Difficulty: 3 Hard Topic:  The Federal Reserve, the Money Supply, and Interest Rates Bloom's:  Understand; Analyze; Evaluate AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  04-04 Appreciate how monetary policy changes affect key economic variables. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 58,
+    "question": "What does the 2004 Check 21 Law allow? Why was this Law passed? Does it benefit the customer or banks? Explain.",
+    "options": {
+      "A": "True",
+      "B": "False for a paper check and helps move the financial system toward paperless, electronic transfers. It was passed because of the September 11 attacks that grounded cargo planes that fly checks all over the country. Switching to electronic check images saves an estimated $3 billion per year for the banking industry. If these cost savings are passed on to customers in the form of better deposit rates or reduced checking fees, customers benefit. However, the Law facilitates speedier clearing of checks that reduces customer's ability to \"play the float.\" The float is the time period between tendering a check and your account being debited, which used to be as many as several days. Checks may now instantly clear. Difficulty: 2 Medium Topic:  Structure of the Federal Reserve System Bloom's:  Understand; Analyze; Evaluate AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  04-02 Identify the structure of the Federal Reserve System. Accessibility:  Keyboard Navigation 23 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 1,
+    "question": "Everything else equal, an effective annual rate will be greater than the bond equivalent yield on the same security.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Yields on Money Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 2,
+    "question": "Money markets exist to help reduce the opportunity cost of holding cash balances.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Money Markets Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 3,
+    "question": "The majority of money market securities are low-denomination, low-risk investments designed to appeal to individual investors with excess cash.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Money Markets Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 4,
+    "question": "Commercial paper is a short-term obligation of the U.S. government issued to cover government budget deficits and to refinance maturing government debt.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation 1 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 2 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "Commercial paper, Treasury bills, and banker's acceptance rates are all quoted as discount yields.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Yields on Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets.; 05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 6,
+    "question": "Euro commercial paper is a short-term obligation of the European Central Bank.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Euro money markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-05 Examine the extent to which foreign investors participate in U.S. money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 7,
+    "question": "The U.S. Treasury switched from a discriminating price auction to a single price auction because the latter lowered the average price paid by investors.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Money Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-03 Examine the process used to issue Treasury securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 8,
+    "question": "In the T-bill secondary market the ask yield will normally be less than the bid yield.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation 3 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 9,
+    "question": "The largest secondary money market in the United States is the secondary market for T-bills.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 10,
+    "question": "Fed funds are short-term unsecured loans while repos are short-term secured loans.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 11,
+    "question": "360/n times the difference between the face value and the current value divided by the face value gives you the discount yield on an instrument.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 3 Hard Topic:  Yields on Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 12,
+    "question": "The bond equivalent yield times 365/360 is equal to the single payment yield.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Yields on Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation 4 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 13,
+    "question": "LIBOR is the rate that would be charged when banks borrow from other banks in Eurodollar market.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Euro money markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-05 Examine the extent to which foreign investors participate in U.S. money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 14,
+    "question": "Maturities on Eurodollar CDs are usually more than one year.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Euro money markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-05 Examine the extent to which foreign investors participate in U.S. money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 15,
+    "question": "In general, the federal funds rate is slightly lower than the LIBOR.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Euro money markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-05 Examine the extent to which foreign investors participate in U.S. money markets. Accessibility:  Keyboard Navigation 5 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 16,
+    "question": "For the purposes for which they are used, money market securities should have which of the following characteristics? I.  Low trading costs II.  Little price risk III.  High rate of return IV .  Life greater than one year",
+    "options": {
+      "A": "I and III",
+      "B": "II and IV",
+      "C": "III and IV",
+      "D": "I and II E) I, II, and III Difficulty: 1 Easy Topic:  Money Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 17,
+    "question": "Money market securities exhibit which of the following? I.  Large denomination II.  Maturity greater than one year III.  Low default risk IV . Contractually determined cash flows",
+    "options": {
+      "A": "I, II, and III",
+      "B": "I, III, and IV",
+      "C": "II, III, and IV",
+      "D": "II and IV E) I, II, III, and IV Difficulty: 2 Medium Topic:  Money Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation 6 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 18,
+    "question": "A repo is in essence a collateralized",
+    "options": {
+      "A": "banker's acceptance.",
+      "B": "certificate of deposit.",
+      "C": "Fed funds loan.",
+      "D": "commercial paper loan. E) Eurodollar deposit. Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 19,
+    "question": "A short-term unsecured promissory note issued by a company is",
+    "options": {
+      "A": "commercial paper.",
+      "B": "a T-bill.",
+      "C": "a repurchase agreement.",
+      "D": "a negotiable CD. E) a banker's acceptance. Difficulty: 1 Easy Topic:  Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 21,
+    "question": "In the T-bill auction process, the competitive bidder is guaranteed a ________ and a noncompetitive bidder is guaranteed a ________.",
+    "options": {
+      "A": "minimum price; maximum price.",
+      "B": "maximum price; minimum price.",
+      "C": "maximum price; given quantity.",
+      "D": "minimum price; maximum quantity. E) None of these choices are correct. Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-03 Examine the process used to issue Treasury securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 22,
+    "question": "A dealer is quoting a $10,000 face 180-day T-bill quoted at 2.75 bid, 2.65 ask. You could buy this bill at ________ or sell it at ________.",
+    "options": {
+      "A": "$9,869.23; $9,864.36.",
+      "B": "$9,864.36; $9,869.23.",
+      "C": "$9,867.50; $9,862.50.",
+      "D": "$9,862.50; $9,867.50. E) None of these choices are correct. Explanation:  Buy at 10,000 × [1 − (0.0265 × 180/360)]; sell at 10,000 × [1 − (0.0275 × 180/360)]. Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation 8 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 23,
+    "question": "Rates on federal funds and repurchase agreements are stated",
+    "options": {
+      "A": "on a bond equivalent basis with a 360-day year.",
+      "B": "on a bond equivalent basis with a 365-day year.",
+      "C": "as a discount yield with a 360-day year.",
+      "D": "as an EAR. E) as a discount yield with a 365-day year. Difficulty: 2 Medium Topic:  Yields on Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 24,
+    "question": "The discount yield on a T-bill differs from the T-bill's bond equivalent yield (BEY) because I. the discount yield is the return per dollar of face value and the BEY is a return per dollar originally invested. II. a 360-day year is used on the discount yield and the BEY uses 365 days. III. the discount yield is calculated without compounding, and the BEY is calculated with compounding.",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II only",
+      "D": "II and III only E) I, II, and III Difficulty: 3 Hard Topic:  Yields on Money Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation 9 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 25,
+    "question": "The following formula is used to calculate the ________ of a money market investment. ×",
+    "options": {
+      "A": "EAR",
+      "B": "APR",
+      "C": "single-payment yield",
+      "D": "discount yield E) BEY Difficulty: 2 Medium Topic:  Yields on Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 28,
+    "question": "A negotiable CD",
+    "options": {
+      "A": "is a bank-issued transactions deposit.",
+      "B": "is a registered instrument.",
+      "C": "is a bank-issued time deposit.",
+      "D": "has denominations ranging from $50,000 to $10 million. E) pays discount interest. Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 29,
+    "question": "A 180-day $3 million CD has a 4.25 percent annual rate quote. If you buy the CD, how much will you collect in 180 days?",
+    "options": {
+      "A": "$3,047,439",
+      "B": "$3,045.678",
+      "C": "$3,062,877",
+      "D": "$3,063,750 E) $3,127,500 Explanation:  $3 million × [1 + (0.0425 × 180/360)] Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Analyze; Apply; Evaluate AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation 11 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 30,
+    "question": "A banker's acceptance is",
+    "options": {
+      "A": "a time draft drawn on the exporter's bank.",
+      "B": "a method to help importers evaluate the creditworthiness of exporters.",
+      "C": "a liability of the importer and the importer's bank.",
+      "D": "an add-on instrument. E) for greater than one year maturity. Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 31,
+    "question": "The most liquid of the money market securities are",
+    "options": {
+      "A": "commercial paper.",
+      "B": "banker's acceptances.",
+      "C": "T-bills.",
+      "D": "Fed funds. E) repurchase agreements. Difficulty: 1 Easy Topic:  Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 32,
+    "question": "In dollars outstanding in 2016, the largest money market security was",
+    "options": {
+      "A": "commercial paper.",
+      "B": "banker's acceptances.",
+      "C": "T-bills.",
+      "D": "Fed funds and repos. Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation 12 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 33,
+    "question": "You buy a $10,000 par Treasury bill at $9,575 and sell it 60 days later for $9,675. What was your EAR?",
+    "options": {
+      "A": "4.44 percent",
+      "B": "6.29 percent",
+      "C": "6.35 percent",
+      "D": "6.52 percent E) 6.67 percent Explanation:  (9,675/9,575)(365/60) − 1 = .06524 = 6.52% Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 34,
+    "question": "LIBOR is generally ________ the Fed funds rate because foreign bank deposits are generally ________ than domestic bank deposits.",
+    "options": {
+      "A": "greater than; less risky",
+      "B": "less than; more risky",
+      "C": "the same as; equally risk",
+      "D": "greater than; more risky E) less than; less risky Difficulty: 2 Medium Topic:  International Aspects of Money Markets Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-05 Examine the extent to which foreign investors participate in U.S. money markets. Accessibility:  Keyboard Navigation 13 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 35,
+    "question": "A U.S. exporter sells $150,000 of furniture to a Latin American importer. The exporter requires the importer to obtain a letter of credit. When the bank accepts the draft, the exporter discounts the 120-day note at a 5.25 percent discount. What is the exporter's true effective annual financing cost?",
+    "options": {
+      "A": "5.52 percent",
+      "B": "5.42 percent",
+      "C": "5.34 percent",
+      "D": "5.29 percent E) 5.25 percent Explanation:  150,000 × [1 − (0.0525 × 120/360)] = 147,375; (150,000/147,375)365/120 − 1 = 5.52% Difficulty: 3 Hard Topic:  Money Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 36,
+    "question": "A Chinese exporter sells $200,000 of toys to a French importer. The Chinese exporter requires the French importer to obtain a letter of credit. When the bank accepts the draft, the exporter discounts the 90-day note at a 4 percent discount. What is the exporter's true effective annual financing cost?",
+    "options": {
+      "A": "4.00 percent",
+      "B": "4.04 percent",
+      "C": "4.10 percent",
+      "D": "4.16 percent E) 4.22 percent Explanation:  200,000 × [1 − (0.04 × 90/360)] = 198,000; (200,000/198,000)365/90 − 1 = 4.16% Difficulty: 3 Hard Topic:  Money Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation 14 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 37,
+    "question": "If a $10,000 par T-bill has a 3.75 percent discount quote and a 90-day maturity, what is the price of the T-bill to the nearest dollar?",
+    "options": {
+      "A": "$9,625.",
+      "B": "$9,906.",
+      "C": "$9,908.",
+      "D": "$9,627. E) None of these choices are correct. Explanation:  10,000 × [1 − (0.0375 × 90/360)] = 9,906 Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 38,
+    "question": "A 90-day T-bill is selling for $9,900. The par is $10,000. The effective annual return on the T- bill is (watch your rounding)",
+    "options": {
+      "A": "4.00 percent.",
+      "B": "4.16 percent.",
+      "C": "4.10 percent.",
+      "D": "4.04 percent. E) 4.21 percent. Explanation:  (10,000/9,900)(365/90) − 1 Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation 15 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 39,
+    "question": "Suppose that $10 million face value commercial paper with a 270-day maturity is selling for $9.55 million. What is the BEY on the paper?",
+    "options": {
+      "A": "4.71 percent",
+      "B": "6.42 percent",
+      "C": "6.37 percent",
+      "D": "6.28 percent E) 4.50 percent Explanation:  ((10 million/9.55 million) − 1) × (365/270) Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 40,
+    "question": "A $2 million jumbo CD is paying a quoted 3.55 percent interest rate on 180-day maturity CDs. How much money will you have at maturity if you invest in the CD?",
+    "options": {
+      "A": "$2,000,000",
+      "B": "$2,035,014",
+      "C": "$2,035,500",
+      "D": "$2,071,000 E) $2,088,400 Explanation:  2,000,000 × [1 + (0.0355 × 180/360)] Difficulty: 2 Medium Topic:  Money Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-02 Identify the major types of money market securities. Accessibility:  Keyboard Navigation 16 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 43,
+    "question": "In a Treasury auction, preferential bidding status is granted to",
+    "options": {
+      "A": "competitive bidders.",
+      "B": "noncompetitive bidders.",
+      "C": "short sale committed bidders.",
+      "D": "commercial bank bidders. E) no group of bidders. Difficulty: 1 Easy Topic:  Money Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-03 Examine the process used to issue Treasury securities. Accessibility:  Keyboard Navigation 17 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 46,
+    "question": "Which of the following descriptions does not apply to money market securities?",
+    "options": {
+      "A": "Short-term",
+      "B": "Low-risk",
+      "C": "Highly liquid",
+      "D": "Long maturity E) High denominations Difficulty: 1 Easy Topic:  Money Markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation 18 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 48,
+    "question": "The most significant borrower in the U.S. money markets?",
+    "options": {
+      "A": "Are commercial banks",
+      "B": "Are large corporations",
+      "C": "Is the U.S. Treasury",
+      "D": "Are the investment banks E) Are the insurance companies Difficulty: 1 Easy Topic:  Money markets participants Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  05-04 List the main participants in money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 49,
+    "question": "A noncompetitive bid for Treasury bill auction provides",
+    "options": {
+      "A": "all noncompetitive bidders the same price.",
+      "B": "all competitive bidders the same price.",
+      "C": "all noncompetitive bidders the same quantity.",
+      "D": "all noncompetitive bidders lesser price than the competitive bidders. E) all competitive bidders the same quantity. Difficulty: 2 Medium Topic:  Treasury Bills Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-03 Examine the process used to issue Treasury securities. Accessibility:  Keyboard Navigation 19 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 50,
+    "question": "What is the price of 182-day money market security with face value of $7,000 if the BEY is 3.574%?",
+    "options": {
+      "A": "$6,877.44",
+      "B": "$6,925.48",
+      "C": "$6,634.47",
+      "D": "$6,725.36 E) $6,452.39 Explanation:  (7,000 − P)/P × 365/182 = 0.03574 (7,000 − P)/P = 0.01782 P = $6,877.44 Difficulty: 3 Hard Topic:  Yields on Money Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 51,
+    "question": "Why do most money market securities have large denominations?",
+    "options": {
+      "A": "True",
+      "B": "False have large enough quantities of money to make it costly for them to not invest their excess funds. For most individual investors, the dollars lost by not keeping fully invested in interest-bearing assets is very minimal. Difficulty: 1 Easy Topic:  Money Markets Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  05-01 Define money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 57,
+    "question": "A corporate treasurer is looking to invest about $4 million for 60 days. Commercial paper rates are a 3.65 percent discount and CD rates are 3.66 percent. Comparing the bond equivalent yields over a 365-day year, which is the best alternative? What is the opportunity cost of leaving the funds idle? (Watch your rounding.)",
+    "options": {
+      "A": "True",
+      "B": "False CP: Price = $4 million × [1 − 0.0365 × (60/360)] = $3,975,667 [($4 million/$3,975,667) − 1] × (365/60) = 3.7233% BEY CD: $4 million × [1 + 0.0366 × (60/360)] = $4,024,400 [($4,024,400/$4 million) − 1] × (365/60) = 3.7108% BEY The best deal is the CP and the opportunity cost is 3.7233%. Difficulty: 3 Hard Topic:  Money Market Securities; Money Market Participants Bloom's:  Analyze; Apply; Evaluate AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  05-02 Identify the major types of money market securities.; 05-04 List the main participants in money markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 1,
+    "question": "TIPS are a Treasury offering that protects investors from unexpected increases in inflation.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 2,
+    "question": "A callable bond is one where the issuer is required to retire a certain amount of the outstanding bonds each year to ensure that all the bond principal is paid by final maturity.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 3,
+    "question": "Treasury notes and bonds and municipal bonds are default risk free.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 4,
+    "question": "\"On the run\" Treasury notes and bonds are newly issued securities and \"off-the-run\" Treasuries are securities that have been previously issued.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 1 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "T-notes and T-bonds are issued in minimum denominations of $100, or multiples of $100.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 6,
+    "question": "The dirty price plus accrued interest is called the clean price of the security.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 7,
+    "question": "Accrued interest owed to the bond seller increases as the next coupon payment date approaches.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 8,
+    "question": "Revenue bonds are backed by the full revenue of the municipality.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 2 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 9,
+    "question": "In a Treasury bond quote with a $1,000 face value, you find the bid is equal to 100-24 and the ask is equal to 100-26. You could buy this bond for $1,008.125.",
+    "options": {
+      "A": "True",
+      "B": "False Explanation:  The value of the bond is (100 + 26/32) × (1,000/100) = $1,008.125 Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 10,
+    "question": "An unsecured bond that has no specific collateral other than the general creditworthiness of the issuing firm is called a debenture.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 11,
+    "question": "With TIPS, the security's coupon rate is changed every six months by the inflation rate as measured by the CPI.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 12,
+    "question": "Bond ratings use a classification system to give investors an idea of the amount of default rate risk associated with the bond issue.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 3 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 13,
+    "question": "Bonds rated below Baa by Moody's or BBB by S&P are junk bonds.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 14,
+    "question": "Eurobonds are bonds denominated in the issuer's home currency, but are issued outside their home country.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Eurobonds, Foreign Bonds, and Sovereign Bonds Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-04 Describe the types of securities traded in international bond markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 15,
+    "question": "Callable bonds have lower required yields than similar convertible bonds, ceteris paribus.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 16,
+    "question": "Capital markets are markets where securities are traded.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Definition of bond markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-01 Describe the major bond markets. Accessibility:  Keyboard Navigation 4 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 17,
+    "question": "Debt securities with maturities of 1-year or less are traded in capital markets.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Definition of bond markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-01 Describe the major bond markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": true
+  },
+  {
+    "id": 18,
+    "question": "Sovereign bonds are long-term debt issued by governments of foreign countries.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  International aspects of bond markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-04 Describe the types of securities traded in international bond markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 19,
+    "question": "Sovereign bonds have high risk because the repayment cannot be forced by creditors.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  International aspects of bond markets Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-04 Describe the types of securities traded in international bond markets. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 20,
+    "question": "\"Off-the-run\" Treasury securities are considered to be more risky.",
+    "options": {
+      "A": "True",
+      "B": "False Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 5 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 21,
+    "question": "You buy a principal STRIP maturing in five years. The price quote per hundred of par for the STRIP is 75.75 percent. Using semiannual compounding, what is the promised yield to maturity on the STRIP?",
+    "options": {
+      "A": "5.632 percent",
+      "B": "5.712 percent",
+      "C": "2.816 percent",
+      "D": "2.945 percent E) 4.566 percent Explanation:  [(100/75.75)(1/(5 × 2)) − 1] × 2 = 5.632% Using the financial calculator: PV = −75.75 FV = 100 PMT = 0 N = 10 Solve for I/Y then multiply with 2. I/Y = 2.816%; Yield to maturity = 2 × 2.816 = 5.632% Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 22,
+    "question": "A T-bond with a $1,000 par is quoted at 97-14 bid, 97-15 ask. The clean price for you to buy this bond is",
+    "options": {
+      "A": "$974.38.",
+      "B": "$975.42.",
+      "C": "$974.69.",
+      "D": "$975.77. E) None of these choices are correct. Explanation:  [97 + (15/32)] × (1,000/100) = 974.6875 which is approximated as $974.69 Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 6 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 23,
+    "question": "The quoted ask yield on a 14-year $1,000 par T-bond with a 7 percent semiannual payment coupon and a price quote of 98-15 is",
+    "options": {
+      "A": "7.00 percent.",
+      "B": "7.18 percent.",
+      "C": "7.30 percent.",
+      "D": "3.59 percent. E) 3.63 percent. Explanation:  $984.688 = $35 × PVIFA (r%, 28) + $1,000 × PVIF (r%, 28) Using the financial calculator: PV = −984.69 FV = 1,000 PMT = 35 N = 28 Solve for I/Y then multiply with 2. I/Y= 3.587%; Yield to maturity = 2 × 3.587 = 7.175% which is rounded to 7.18%. Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 24,
+    "question": "A Treasury security in which periodic coupon interest payments can be separated from each other and from the principal payment is called a",
+    "options": {
+      "A": "STRIP.",
+      "B": "T-note.",
+      "C": "T-bond.",
+      "D": "GO bond. E) Revenue bond. Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 7 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 25,
+    "question": "An 18-year T-bond can be stripped into how many separate securities?",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "36",
+      "D": "37 E) 38 Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 8 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 26,
+    "question": "A life insurer owes $550,000 in eight years. To fund this outflow, the insurer wishes to buy STRIPS that mature in eight years. The STRIPS have a $5,000 face value per STRIP and pay a 6 percent APR with semiannual compounding. How much must the insurer spend now to fully fund the outflow (to the nearest dollar)?",
+    "options": {
+      "A": "$110,000",
+      "B": "$342,742",
+      "C": "$355,224",
+      "D": "$362,355 E) $370,890 Explanation:  (5,000/1.0316) × (550,000/5,000) Detailed Solution: Find the present value of $550,000 over 8 years with semi annual compounding and 6% interest rate. FV = 550,000 N = 16 I = 3 PMT = 0 Solve for PV = 342,741.816. With this amount, the insurer needs to purchase a certain number of STRIPS, so that at maturity they produce the amount of $550,000. The value of each STRIP today is: FV = 5,000 N = 16 I = 3 PMT = 0 Solving for PV you get 3,155.83. Therefore, the insurance company needs to buy 342,741.816/3,155.83 = 110 of these strips in order to fully fund the outflow in 8 years. Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Analyze; Apply; Evaluate AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 9 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 27,
+    "question": "The ask yield on a 6 percent coupon Treasury bond maturing in eight years is 5.488 percent. If the face value is $1,000, what should be the QUOTED cost of the bond today (use semiannual compounding)?",
+    "options": {
+      "A": "103-6",
+      "B": "103-7",
+      "C": "103-8",
+      "D": "103-9 E) 103-10 Explanation:  $60 × PVIFA (0.05488/2, 16) + $1,000 × PVIF (0.05488/2, 16) = $1,032.79488; To convert to fraction quote do the following: Round-down ($1,032.79488/10) + Round {($1,032.79488/10) Round-down ($1,032.79488/10)] × 32} = 103 9/32 Using the financial calculator: FV = 1,000 PMT = 30 N = 16 I/Y = 2.744 Solve for the PV to get 1,032.7948 as the value of the bond. In the quotation system used for bonds, the price is quoted as percent of Par, and the decimal portion is converted to 1/32 fraction. First 1,032.7948 × (100/1,000) = 103.27948; and then 0.27948 × 32 = 8.94 which is approximately 9. The quoted price will be 103 9/32. Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 29,
+    "question": "On July 1, 2012, you purchase a $10,000 par T-note that matures in five years. The coupon rate is 8 percent and the price quote is 98-6. The last coupon payment was May 1, 2012, and the next payment is November 1, 2012 (184 days total). The accrued interest is",
+    "options": {
+      "A": "$132.61.",
+      "B": "$101.00.",
+      "C": "$50.54.",
+      "D": "$40.65. E) $35.67. Explanation:  ((8%/2) × 10,000) × (61 days since last coupon/184) = $132.61 Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 30,
+    "question": "On September 1, 2012, an investor purchases a $10,000 par T-bond that matures in 12 years. The coupon rate is 6 percent and the investor buys the bond 70 days after the last coupon payment (110 days before the next). The ask yield is 7 percent. The dirty price of the bond is",
+    "options": {
+      "A": "$9,295.45.",
+      "B": "$9,300.55.",
+      "C": "$9,313.75.",
+      "D": "$9,321.82. E) $9,333.24. Explanation:  300 × PVIFA (3.5%, 24) + 10,000 × PVIF (3.5%, 24) = 9,197.08; 300 × (70/180) = 116.67; 9,197.08 + 116.67 = 9,313.75 Using the financial calculator: FV = 10,000 PMT = 300 N = 24 I/Y = 3.5 Solve for PV to get the clean price of $9,197.08; The accrued interest is (70/180) × 300 = $116.67. The dirty price is $9,197.08 + $116.67 = $9,313.75. Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 11 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 31,
+    "question": "Interest income from Treasury securities is ________, and interest income from municipal bonds is always ________.",
+    "options": {
+      "A": "exempt from federal taxes; exempt from all taxes",
+      "B": "taxable at the state level only; exempt from state taxes only",
+      "C": "taxable at federal level only; exempt from federal taxes",
+      "D": "taxable at the state level; taxed at the federal level E) totally tax exempt; exempt from state taxes Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 32,
+    "question": "An investor is in the 28 percent federal tax bracket and pays a 9 percent state tax rate and 4 percent in local income taxes. For this investor a municipal bond paying 6 percent interest is equivalent to a corporate bond paying ________ interest.",
+    "options": {
+      "A": "11.79 percent",
+      "B": "10.17 percent",
+      "C": "9.08 percent",
+      "D": "9.68 percent E) 8.47 percent Explanation:  0.06/[1 − (0.28 + 0.09 + 0.04)] Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 12 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 34,
+    "question": "Standard revenue bonds are",
+    "options": {
+      "A": "backed by the full taxing authority of the municipality.",
+      "B": "collateralized by the earnings from a specific project.",
+      "C": "bonds backed by mortgages.",
+      "D": "backed by the U.S. Treasury. E) always offered with a best efforts offering. Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 13 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 35,
+    "question": "When an investment banker purchases an offering from a bond issuer and then resells it to the public, this is known as a",
+    "options": {
+      "A": "rights offering.",
+      "B": "private placement.",
+      "C": "firm commitment.",
+      "D": "best efforts. E) standby offering. Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 36,
+    "question": "The largest type of municipal bonds outstanding is ________.",
+    "options": {
+      "A": "revenue bonds",
+      "B": "industrial development bonds",
+      "C": "Treasury STRIPS",
+      "D": "convertible bonds E) general obligation bonds Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 14 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 37,
+    "question": "Which of the following is/are true about callable bonds? I.  Must always be called at par II. Will normally be called after interest rates drop III. Can be called by either the bondholder or the bond issuer IV .  Have higher required returns than non-callable bonds",
+    "options": {
+      "A": "I and II only",
+      "B": "II and IV only",
+      "C": "II and III only",
+      "D": "I, II, and III only E) I, II, III, and IV are true. Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Understand AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 38,
+    "question": "SEC Rule 144 A does which of the following?",
+    "options": {
+      "A": "Allows privately placed investments to be traded on a limited basis.",
+      "B": "Allows bond issuers to call their bonds when desired.",
+      "C": "Determines the limits of responsibility of bond covenants.",
+      "D": "Requires that bonds traded on the NYSE bond market utilize the ABS system. E) None of these choices are correct. Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 15 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 39,
+    "question": "Convertible bonds are I. options attached to bonds that give the bondholder the right to purchase stock at a preset price without giving up the bond. II. bonds in which the issue matures (converts) a little each year. III. bonds collateralized with certain types of automobiles. IV . bonds that may be converted to a certain number of shares of stock determined by the conversion ratio.",
+    "options": {
+      "A": "I only",
+      "B": "I and II only",
+      "C": "I, II, and III",
+      "D": "IV only E) I and III only Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 40,
+    "question": "A holder of Rainbow Funds convertible bonds with a $1,000 par and a $1,100 price can convert the bond to 25 shares of common stock. The stock is currently priced at $36 per share. By what percent does the stock price have to rise to make conversion potentially attractive?",
+    "options": {
+      "A": "10.00 percent",
+      "B": "14.73 percent",
+      "C": "22.22 percent",
+      "D": "23.64 percent E) 25.69 percent Explanation:  [(1,100/25)/36] − 1 At the current share price level, the value of each converted bond comes to 25 × 36 = $900 while the value of the bond is $1,100; this is a loss of $200, so it is not attractive to convert. If the stock price goes up to $44, then 25 × 44 = 1,100, and at this price the conversion is possible. The increase in the price from $36 to $44 is 22.22%. Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Analyze; Apply; Evaluate AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 16 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 41,
+    "question": "With respect to private placements of bonds, which of the following is correct? I. Issuers of privately placed bonds tend to be less well known than public bond issuers. II. Interest rates on privately placed debt tend to be higher than for similar public issues. III. Purchasers of privately placed debt have assets of at least $1 million. IV . Once bonds have been privately placed, the original buyers must hold the bonds until maturity.",
+    "options": {
+      "A": "I only",
+      "B": "I and III only",
+      "C": "I, II, and III only",
+      "D": "I, III, and IV only E) I, II, III, and IV Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 42,
+    "question": "Which of the following statements about Eurobonds is/are true? I.  The issuer chooses the currency of denomination. II.  Spreads on firm commitment offers are lower for Eurobonds than for U.S. bonds. III. Eurobonds typically have denomination of $5,000 and $10,000. IV . Eurobonds are bearer bonds.",
+    "options": {
+      "A": "I and II only",
+      "B": "I, III, and IV only",
+      "C": "II, III, and IV only",
+      "D": "II and III only E) I, II, III, and IV are true. Difficulty: 3 Hard Topic:  Eurobonds, Foreign Bonds, and Sovereign Bonds Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-04 Describe the types of securities traded in international bond markets. Accessibility:  Keyboard Navigation 17 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 43,
+    "question": "Bearer bonds are bonds",
+    "options": {
+      "A": "with coupons attached that are redeemable by whoever has the bond.",
+      "B": "where the registered owner automatically receives bond payments when scheduled.",
+      "C": "in which the issue matures on a series of dates.",
+      "D": "issued in another currency other than the bond issuer's home currency. E) issued in a different country other than the bond issuer's home country. Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Remember AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 44,
+    "question": "A T-bond with a $1,000 par is quoted at a bid of 105-7 and an ask of 105-9. If you sell the bond, you will receive",
+    "options": {
+      "A": "$1,052.81.",
+      "B": "$1,052.19.",
+      "C": "$1,057.22.",
+      "D": "$1,059.22. E) None of these choices are correct. Explanation:  You will sell it at the bid value. 7/32 = 0.21875 added to 105 gives 105.21875 as the quoted price in percent of par. The dollar value will be $1052.19. Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 18 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 45,
+    "question": "A T-bond with a $10,000 par is quoted at a bid of 92-11 and an ask of 92-17. If you bought the bond and then immediately sold it at the same quotes, how much money would you gain or lose (ignore commissions)?",
+    "options": {
+      "A": "$12.50",
+      "B": "− $12.50",
+      "C": "− $18.75",
+      "D": "$18.75 E) $0.00 Explanation:  9,234.38 − 9,253.13 = −18.75 Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 46,
+    "question": "The quoted ask yield on a 30-year $1,000 par T-bond with a 6.25 percent coupon and a price quote of 106-16 is ________ (use semiannual compounding).",
+    "options": {
+      "A": "2.94 percent",
+      "B": "2.90 percent",
+      "C": "5.79 percent",
+      "D": "5.87 percent E) 4.95 percent Explanation:  $1,065.00 = $31.25 × PVIFA (r%, 60) + $1,000 × PVIF (r%, 60 yrs); trial and error or financial calculator for r Using the financial calculator: PV = −1065 FV = 1,000 PMT = 31.25 N = 60 Solve for I/Y then multiply with 2. I/Y = 2.895%; Yield to maturity = 2 × 2.895 = 5.791% which is rounded to 5.79%. Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 19 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 47,
+    "question": "An investor buys a $10,000 par, 4.25 percent annual coupon TIPS security with three years to maturity. If inflation every six months over the investor's holding period is 2.50 percent, what is the final payment the TIPS investor will receive?",
+    "options": {
+      "A": "$10,213.00",
+      "B": "$10,869.28",
+      "C": "$11,822.25",
+      "D": "$11,843.37 E) $12,201.11 Explanation:  ($10,000 × 1.0256) × (1 + (0.0425/2)) Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "D",
+    "is_tf": false
+  },
+  {
+    "id": 48,
+    "question": "A bond investor has a 99 percent chance of receiving all of her promised payments on a particular bond issue in the first year of holding the bond, but only a 98 percent chance in the second year, and a 97 percent chance in the third year and beyond. What is the cumulative default probability over the first three years she holds the bond?",
+    "options": {
+      "A": "3.75 percent",
+      "B": "4.24 percent",
+      "C": "5.89 percent",
+      "D": "6.85 percent E) 7.33 percent Explanation:  1 − [0.99 × 0.98 × 0.97] = 5.89% Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 20 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 49,
+    "question": "You purchase a $1,000 face value convertible bond for $975. The bond can be converted into 150 shares of stock. The stock is currently priced at $5.25. At what minimum stock price would you be willing to convert?",
+    "options": {
+      "A": "$4.50",
+      "B": "$5.26",
+      "C": "$6.50",
+      "D": "$7.10 E) $7.25 Explanation:  (975/150) = 6.50 Difficulty: 1 Easy Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 21 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "C",
+    "is_tf": false
+  },
+  {
+    "id": 50,
+    "question": "You purchased a five-year annual payment 6 percent coupon bond for $1,000 and you planned on holding it to maturity. However, right after you bought the bond, it was called at $1,043.29 when all interest rates fell to 5 percent and remained there for the full five years. You reinvested the money for the full five years. What was your annual compound rate of return off your original investment?",
+    "options": {
+      "A": "6.00 percent",
+      "B": "5.89 percent",
+      "C": "5.75 percent",
+      "D": "5.23 percent E) 5.00 percent Explanation:  [(1,043.29 × 1.055)/1,000]1/5 − 1 Using the financial calculator: PV = −1,043.29 PMT = 0 N = 5 I/Y = 5 Solve for FV to get 1,331.53. In the second step, find the rate of return that you should earn so that $1,000 becomes $1,331.53 in 5 years. FV = 1,331.53 PV = −1,000 N = 5 PMT = 0 Solve for I/Y to get 5.89%. Difficulty: 2 Medium Topic:  Bond Market Securities Bloom's:  Analyze; Apply AACSB:  Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 22 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "B",
+    "is_tf": false
+  },
+  {
+    "id": 51,
+    "question": "Which of the following situations would require an increase in the coupon rate for a bond selling at par?",
+    "options": {
+      "A": "The addition of a call provision",
+      "B": "The addition of a convertibility option",
+      "C": "The increase in the rating from BBB to AA",
+      "D": "The addition of sinking fund provision E) All of these choices are correct. Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Understand; Apply AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation"
+    },
+    "answer": "A",
+    "is_tf": false
+  },
+  {
+    "id": 60,
+    "question": "An investor is holding a $1,000 par, 10-year 9 percent coupon convertible bond with a 9 percent required bond yield. The bond is convertible into 40 shares of stock. Each share is worth $30. The bond has a current market value of $1,200. If interest rates don't change, what is the maximum gain and loss on the bond?",
+    "options": {
+      "A": "True",
+      "B": "False could increase an unlimited amount. The maximum loss on the bond, given no interest rate change, is $200. The bond has a floor price equal to its value as a bond and with a 9 percent coupon and 9 percent yield that gives a $1,000 minimum value. Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Understand; Analyze; Evaluate AACSB:  Reflective Thinking; Analytical Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 27 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636"
+    },
+    "answer": "A",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "Ability to market large-size issues in a given currency or country Difficulty: 3 Hard Topic:  Bond Market Securities Bloom's:  Create AACSB:  Reflective Thinking Learning Goal:  06-02 Identify the characteristics of the various bond market securities. Accessibility:  Keyboard Navigation 28 Copyright ©2022 McGraw-Hill Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Studocu is not sponsored or endorsed by any college or university Chap007 - testbank Intermediate Finance (Lahore University of Management Sciences) Studocu is not sponsored or endorsed by any college or university Chap007 - testbank Intermediate Finance (Lahore University of Management Sciences) Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 07 - Mortgage Markets Chapter 07 Mortgage Markets",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 1,
+    "question": "The largest category of mortgages by dollar volume is commercial mortgages.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 2,
+    "question": "The process of mortgage securitization results in a separation between mortgage origination and mortgage financing.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 3,
+    "question": "A subprime mortgage is a mortgage made to a borrower who has a below normal credit rating.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 4,
+    "question": "Federally insured mortgages are called conventional mortgages.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "Private mortgage insurance (and hence, that part of the homeowner's monthly payment) is automatically removed from a mortgage when the loan-to-value ratio on the mortgage falls below 80%.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 6,
+    "question": "A borrower using a conventional mortgage will have to put up at least a 20% down payment or purchase private mortgage insurance.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 7,
+    "question": "Discount points are paid to reduce the down payment required.",
+    "options": {
+      "A": "True",
+      "B": "False 7-1 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 07 - Mortgage Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 8,
+    "question": "On a fixed-rate mortgage the dollars of interest the homeowner pays falls each year the mortgage is outstanding.",
+    "options": {
+      "A": "True",
+      "B": "False Multiple Choice Questions"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 48,
+    "question": "Why were CMOs created? 7-13 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 07 - Mortgage Markets Chapter 07 Mortgage Markets Answer Key",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 1,
+    "question": "The largest category of mortgages by dollar volume is commercial mortgages.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 1 Easy Learning Goal: 07-01 Distinguish between a mortgage and a mortgage-backed security. Learning Goal: 07-02 Describe the main types of mortgages issued by financial institutions. Topic: Mortgage Markets and Mortgage-Backed Securities: Chapter Overview Topic: Primary Mortgage Market"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 2,
+    "question": "The process of mortgage securitization results in a separation between mortgage origination and mortgage financing.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 07-06 Define a mortgage sale. Topic: Secondary Mortgage Market"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 3,
+    "question": "A subprime mortgage is a mortgage made to a borrower who has a below normal credit rating.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 07-05 Describe some of the new innovations in mortgage financing. Topic: Primary Mortgage Market 7-14 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 07 - Mortgage Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 4,
+    "question": "Federally insured mortgages are called conventional mortgages.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 07-03 Identify the major characteristics of a mortgage. Topic: Primary Mortgage Market"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "Private mortgage insurance (and hence, that part of the homeowner's monthly payment) is automatically removed from a mortgage when the loan-to-value ratio on the mortgage falls below 80%.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 2 Medium Learning Goal: 07-03 Identify the major characteristics of a mortgage. Topic: Primary Mortgage Market"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 6,
+    "question": "A borrower using a conventional mortgage will have to put up at least a 20% down payment or purchase private mortgage insurance.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 1 Easy Learning Goal: 07-03 Identify the major characteristics of a mortgage. Topic: Primary Mortgage Market"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 7,
+    "question": "Discount points are paid to reduce the down payment required.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 07-03 Identify the major characteristics of a mortgage. Topic: Primary Mortgage Market 7-15 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 07 - Mortgage Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 8,
+    "question": "On a fixed-rate mortgage the dollars of interest the homeowner pays falls each year the mortgage is outstanding.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 2 Medium Learning Goal: 07-03 Identify the major characteristics of a mortgage. Topic: Primary Mortgage Market Multiple Choice Questions"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 48,
+    "question": "Why were CMOs created? Some investors desired more protection from prepayment risk than offered by pass-throughs. The creation of different payment tranches in a CMO allows the investor to better tailor their prepayment risk exposure. AACSB: Reflective Thinking Blooms: Understand Difficulty: 2 Medium Learning Goal: 07-08 Define a collateralized mortgage obligation. Topic: Secondary Mortgage Market 7-37 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Studocu is not sponsored or endorsed by any college or university Chap008 - testbank Intermediate Finance (Lahore University of Management Sciences) Studocu is not sponsored or endorsed by any college or university Chap008 - testbank Intermediate Finance (Lahore University of Management Sciences) Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 08 - Stock Markets Chapter 08 Stock Markets",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 1,
+    "question": "A type of absentee ballot that allows a representative to vote on behalf of the stockholder is called a proxy.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 2,
+    "question": "An order to buy shares of stock at a specified price or better is called a limit order.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 3,
+    "question": "Stock splits change the divisor in a price-weighted index but do not result in any net change in the divisor of a value-weighted index.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 4,
+    "question": "A long-term investor in a high marginal tax bracket will normally prefer a dollar of capital gain to a dollar of dividend yield.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "In the event of bankruptcy, a firm's janitor must be paid all of the salary owed to him before stockholders receive anything.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 6,
+    "question": "At year-end a firm has assets of $100 and debts due of $120. In this situation, the stockholders must pay an additional $20 out of their own pocket.",
+    "options": {
+      "A": "True",
+      "B": "False 8-1 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 08 - Stock Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 7,
+    "question": "In cumulative voting, a stockholder who owns 51% of the shares can be assured of the ability to elect the entire board of directors.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 8,
+    "question": "The Dow Jones Industrial Average is a price-weighted index of 30 stocks chosen to represent the overall market.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 9,
+    "question": "Preferred stockholders have a claim senior to common stock but junior to bondholders.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 10,
+    "question": "The market in which firms sell new securities to raise cash is called the secondary market.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 11,
+    "question": "The NYSE recently merged with the London Stock Exchange to form the merged company NYSE Euronext.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 12,
+    "question": "Dual class stock refers to firms with both common and preferred stock outstanding.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 13,
+    "question": "If the stock markets are semi-strong efficient, stock prices reflect all historic and current public information about a firm but prices do not reflect inside information.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 14,
+    "question": "A seasoned equity offering occurs when an issuer that already has equity publicly trading issues new shares to the public.",
+    "options": {
+      "A": "True",
+      "B": "False 8-2 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 08 - Stock Markets Multiple Choice Questions"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 56,
+    "question": "You own 500 shares of common stock in a firm that has 2 million shares outstanding. The firm announces a plan to sell an additional 500,000 shares through a rights offering. a) How many rights to purchase new shares will you receive? b) Suppose that the market price per share is $30, but each right allows you to purchase a share of stock for $27. What should be the value of one right? c) If you sold your rights, how much money should you make? 8-15 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 08 - Stock Markets Chapter 08 Stock Markets Answer Key",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 1,
+    "question": "A type of absentee ballot that allows a representative to vote on behalf of the stockholder is called a proxy.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 08-01 Identify the major characteristics of common stock. Topic: Stock Market Securities"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 2,
+    "question": "An order to buy shares of stock at a specified price or better is called a limit order.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 08-05 Examine the process by which a trade takes place in the stock markets. Topic: Primary and Secondary Stock Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 3,
+    "question": "Stock splits change the divisor in a price-weighted index but do not result in any net change in the divisor of a value-weighted index.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 2 Medium Learning Goal: 08-06 Recognize the major stock market indexes. Topic: Primary and Secondary Stock Markets 8-16 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 08 - Stock Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 4,
+    "question": "A long-term investor in a high marginal tax bracket will normally prefer a dollar of capital gain to a dollar of dividend yield.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 1 Easy Learning Goal: 08-01 Identify the major characteristics of common stock. Topic: Stock Market Securities"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "In the event of bankruptcy, a firm's janitor must be paid all of the salary owed to him before stockholders receive anything.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 1 Easy Learning Goal: 08-01 Identify the major characteristics of common stock. Topic: Stock Market Securities"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 6,
+    "question": "At year-end a firm has assets of $100 and debts due of $120. In this situation, the stockholders must pay an additional $20 out of their own pocket.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 2 Medium Learning Goal: 08-01 Identify the major characteristics of common stock. Topic: Stock Market Securities"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 7,
+    "question": "In cumulative voting, a stockholder who owns 51% of the shares can be assured of the ability to elect the entire board of directors.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 2 Medium Learning Goal: 08-01 Identify the major characteristics of common stock. Topic: Stock Market Securities 8-17 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 08 - Stock Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 8,
+    "question": "The Dow Jones Industrial Average is a price-weighted index of 30 stocks chosen to represent the overall market.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 2 Medium Learning Goal: 08-06 Recognize the major stock market indexes. Topic: Primary and Secondary Stock Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 9,
+    "question": "Preferred stockholders have a claim senior to common stock but junior to bondholders.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 08-02 Identify the major characteristics of preferred stock. Topic: Stock Market Securities"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 10,
+    "question": "The market in which firms sell new securities to raise cash is called the secondary market.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 2 Medium Learning Goal: 08-04 Describe the major secondary stock markets. Topic: Primary and Secondary Stock Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 11,
+    "question": "The NYSE recently merged with the London Stock Exchange to form the merged company NYSE Euronext.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 08-04 Describe the major secondary stock markets. Topic: Primary and Secondary Stock Markets 8-18 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 08 - Stock Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 12,
+    "question": "Dual class stock refers to firms with both common and preferred stock outstanding.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 2 Medium Learning Goal: 08-01 Identify the major characteristics of common stock. Topic: Stock Market Securities"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 13,
+    "question": "If the stock markets are semi-strong efficient, stock prices reflect all historic and current public information about a firm but prices do not reflect inside information.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 2 Medium Learning Goal: 08-08 Explain the three forms of market efficiency. Topic: Other Issues Pertaining to Stock Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 14,
+    "question": "A seasoned equity offering occurs when an issuer that already has equity publicly trading issues new shares to the public.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 2 Medium Learning Goal: 08-03 Examine the process by which common stock is issued in primary stock markets. Topic: Primary and Secondary Stock Markets 8-19 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 08 - Stock Markets Multiple Choice Questions"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 56,
+    "question": "You own 500 shares of common stock in a firm that has 2 million shares outstanding. The firm announces a plan to sell an additional 500,000 shares through a rights offering. a) How many rights to purchase new shares will you receive? b) Suppose that the market price per share is $30, but each right allows you to purchase a share of stock for $27. What should be the value of one right? c) If you sold your rights, how much money should you make? a) (500,000/2,000,000) * 500 = 125 rights b) [(500 x 30) + (125 x 27)]/(500 + 125) = 18,375/625 = 29.40; 29.40 - 27 = $2.40 c) $2.40 x 125 = $300 AACSB: Analytic AACSB: Reflective Thinking Blooms: Analyze Blooms: Apply Difficulty: 3 Difficult Learning Goal: 08-03 Examine the process by which common stock is issued in primary stock markets. Topic: Primary and Secondary Stock Markets 8-39 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Studocu is not sponsored or endorsed by any college or university Chap010 - financial markets TB Financial Markets and Commercial Banks (Prince Sultan University) Studocu is not sponsored or endorsed by any college or university Chap010 - financial markets TB Financial Markets and Commercial Banks (Prince Sultan University) Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 10 - Derivative Securities Markets Chapter 10 Derivative Securities Markets",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 1,
+    "question": "A credit forward is a forward agreement that hedges against an increase in default risk on a loan after the loan has been created by a lender.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 2,
+    "question": "Forward contracts are marked to market daily.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 3,
+    "question": "Futures or option exchange members who take positions on contracts for only a few moments are called scalpers.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 4,
+    "question": "The purchaser of a T-bond futures contract priced at 101-16 at the time of sale agrees to deliver $100,000 face value Treasury bonds in exchange for receiving $101,500 at contract maturity.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "A negotiated non-standardized agreement between a buyer and seller (with no third party involvement) to exchange an asset for cash at some future date, with the price set today is called a forward agreement.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 6,
+    "question": "Marking to market of futures contracts is the process of realizing gains and losses each day as the futures contract changes in price.",
+    "options": {
+      "A": "True",
+      "B": "False 10-1 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 10 - Derivative Securities Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 7,
+    "question": "European-style options are options that may only be exercised at maturity.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 8,
+    "question": "In a futures contract, if funds in the margin account fall below the maintenance margin requirement, a margin call is issued.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 9,
+    "question": "You would expect the price quote for a put option to be at least $10 if the put had an exercise price of $40 and the underlying stock was selling for $50.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 10,
+    "question": "A clearinghouse backs the buyer's and seller's position in a forward contract.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 11,
+    "question": "American options can only be exercised at maturity.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 12,
+    "question": "If you think that interest rates are likely to rise substantially over the next several years, you might sell a T-bond futures contract or buy an interest rate cap to take advantage of your expectations.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 13,
+    "question": "Writing a put option results in a potentially limited gain and a potentially unlimited loss.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 14,
+    "question": "The buyer of a call option on stock benefits if the underlying stock price rises or if the volatility of the stock's price increases.",
+    "options": {
+      "A": "True",
+      "B": "False 10-2 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 10 - Derivative Securities Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 15,
+    "question": "An in the money American call option increases in value as expiration approaches, but an out of the money American call option decreases in value as expiration approaches.",
+    "options": {
+      "A": "True",
+      "B": "False Multiple Choice Questions"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 63,
+    "question": "A stock is priced at $33.25. The stock has 35 call options that expire in 60 days. The underlying stock price volatility is 39% per year and the annual risk-free rate is 4.5%. According to the Black-Scholes option pricing model, what is the most you should be willing to pay for this call option? 10-17 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 10 - Derivative Securities Markets Chapter 10 Derivative Securities Markets Answer Key",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 1,
+    "question": "A credit forward is a forward agreement that hedges against an increase in default risk on a loan after the loan has been created by a lender.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 10-01 Distinguish between forward and future contracts. Topic: Derivative Securities: Chapter Overview"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 2,
+    "question": "Forward contracts are marked to market daily.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 10-01 Distinguish between forward and future contracts. Topic: Forwards and Futures"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 3,
+    "question": "Futures or option exchange members who take positions on contracts for only a few moments are called scalpers.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 10-02 Understand how a futures transaction is conducted. Topic: Forwards and Futures 10-18 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 10 - Derivative Securities Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 4,
+    "question": "The purchaser of a T-bond futures contract priced at 101-16 at the time of sale agrees to deliver $100,000 face value Treasury bonds in exchange for receiving $101,500 at contract maturity.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Analytic AACSB: Reflective Thinking Blooms: Understand Difficulty: 2 Medium Learning Goal: 10-03 Identify information that can be found in a futures quote. Topic: Forwards and Futures"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 5,
+    "question": "A negotiated non-standardized agreement between a buyer and seller (with no third party involvement) to exchange an asset for cash at some future date, with the price set today is called a forward agreement.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 10-01 Distinguish between forward and future contracts. Topic: Forwards and Futures"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 6,
+    "question": "Marking to market of futures contracts is the process of realizing gains and losses each day as the futures contract changes in price.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 10-01 Distinguish between forward and future contracts. Topic: Forwards and Futures"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 7,
+    "question": "European-style options are options that may only be exercised at maturity.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 10-04 Recognize what option contracts are. Topic: Options 10-19 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 10 - Derivative Securities Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 8,
+    "question": "In a futures contract, if funds in the margin account fall below the maintenance margin requirement, a margin call is issued.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 1 Easy Learning Goal: 10-01 Distinguish between forward and future contracts. Topic: Forwards and Futures"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 9,
+    "question": "You would expect the price quote for a put option to be at least $10 if the put had an exercise price of $40 and the underlying stock was selling for $50.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 2 Medium Learning Goal: 10-04 Recognize what option contracts are. Topic: Options"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 10,
+    "question": "A clearinghouse backs the buyer's and seller's position in a forward contract.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 10-02 Understand how a futures transaction is conducted. Topic: Forwards and Futures"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 11,
+    "question": "American options can only be exercised at maturity.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 1 Easy Learning Goal: 10-04 Recognize what option contracts are. Topic: Options 10-20 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 10 - Derivative Securities Markets"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 12,
+    "question": "If you think that interest rates are likely to rise substantially over the next several years, you might sell a T-bond futures contract or buy an interest rate cap to take advantage of your expectations.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Evaluate Blooms: Understand Difficulty: 2 Medium Learning Goal: 10-03 Identify information that can be found in a futures quote. Learning Goal: 10-08 Understand caps, floors, and collars. Topic: Caps, Floors, and Collars Topic: Forwards and Futures"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 13,
+    "question": "Writing a put option results in a potentially limited gain and a potentially unlimited loss.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Remember Difficulty: 2 Medium Learning Goal: 10-04 Recognize what option contracts are. Topic: Options"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 14,
+    "question": "The buyer of a call option on stock benefits if the underlying stock price rises or if the volatility of the stock's price increases.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 2 Medium Learning Goal: 10-04 Recognize what option contracts are. Topic: Options"
+    },
+    "answer": "",
+    "is_tf": true
+  },
+  {
+    "id": 15,
+    "question": "An in the money American call option increases in value as expiration approaches, but an out of the money American call option decreases in value as expiration approaches.",
+    "options": {
+      "A": "True",
+      "B": "False AACSB: Reflective Thinking Blooms: Understand Difficulty: 2 Medium Learning Goal: 10-04 Recognize what option contracts are. Topic: Options 10-21 Downloaded by Thu?n Yukki (thuannmc2003@gmail.com) lOMoARcPSD|10804636 Chapter 10 - Derivative Securities Markets Multiple Choice Questions"
+    },
+    "answer": "",
+    "is_tf": true
+  }
+]

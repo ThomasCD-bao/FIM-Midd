@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Corporate Finance Practice WebApp</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 min-h-screen text-slate-800">
+    <div class="max-w-3xl mx-auto py-10 px-4">
+        <header class="mb-8 text-center">
+            <h1 class="text-3xl font-extrabold text-indigo-600 mb-2">Corporate Finance Study Companion</h1>
+            <p class="text-slate-500">Practice multiple-choice and True/False questions to ace your exam</p>
+        </header>
+
+        <main id="app" class="bg-white shadow rounded-lg p-6 min-h-[300px] flex flex-col justify-between">
+            <div id="quiz-container">
+                <div class="flex justify-between items-center mb-6">
+                    <span class="text-sm font-semibold bg-indigo-50 text-indigo-600 px-3 py-1 rounded-full" id="progress-text">Question 1 of 10</span>
+                    <span class="text-sm font-semibold text-emerald-600" id="score-text">Score: 0/0</span>
+                </div>
+                <h2 id="question-text" class="text-xl font-bold mb-6">Loading questions...</h2>
+                <div id="options-container" class="grid grid-cols-1 gap-4"></div>
+            </div>
+
+            <div class="mt-8 flex justify-between">
+                <button id="prev-btn" class="px-4 py-2 bg-slate-200 text-slate-700 rounded-lg font-medium hover:bg-slate-300 transition-colors disabled:opacity-50 disabled:cursor-not-allowed">Previous</button>
+                <button id="next-btn" class="px-4 py-2 bg-indigo-600 text-white rounded-lg font-medium hover:bg-indigo-700 transition-colors">Next / Skip</button>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let questions = [];
+        let currentIndex = 0;
+        let score = 0;
+        let answeredQuestions = {};
+
+        const progressText = document.getElementById('progress-text');
+        const scoreText = document.getElementById('score-text');
+        const questionText = document.getElementById('question-text');
+        const optionsContainer = document.getElementById('options-container');
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+
+        async function init() {
+            try {
+                const res = await fetch('questions.json');
+                questions = await res.json();
+                showQuestion(0);
+            } catch (err) {
+                questionText.textContent = "Failed to load questions. Please verify that 'questions.json' is present.";
+            }
+        }
+
+        function showQuestion(index) {
+            if (questions.length === 0) return;
+            currentIndex = index;
+            const q = questions[index];
+
+            progressText.textContent = `Question ${index + 1} of ${questions.length}`;
+            scoreText.textContent = `Score: ${score}/${Object.keys(answeredQuestions).length}`;
+            questionText.textContent = q.question;
+            optionsContainer.innerHTML = '';
+
+            prevBtn.disabled = index === 0;
+
+            // Set grid styles dynamically: T/F spans wider or stays 1-column
+            if (q.is_tf || Object.keys(q.options).length === 2) {
+                optionsContainer.className = "grid grid-cols-2 gap-4";
+            } else {
+                optionsContainer.className = "grid grid-cols-1 gap-4";
+            }
+
+            Object.entries(q.options).forEach(([key, value]) => {
+                const button = document.createElement('button');
+                button.className = "w-full text-left p-4 rounded-lg border border-slate-200 hover:border-indigo-400 hover:bg-indigo-50/50 transition-all font-medium flex items-center justify-between";
+                button.innerHTML = `<span><strong class="mr-2 text-indigo-600">${key}.</strong> ${value}</span>`;
+                
+                if (answeredQuestions[index]) {
+                    button.disabled = true;
+                    if (key === q.answer) {
+                        button.classList.add('bg-emerald-50', 'border-emerald-500', 'text-emerald-700');
+                    } else if (key === answeredQuestions[index]) {
+                        button.classList.add('bg-rose-50', 'border-rose-500', 'text-rose-700');
+                    }
+                } else {
+                    button.onclick = () => selectAnswer(key);
+                }
+                optionsContainer.appendChild(button);
+            });
+        }
+
+        function selectAnswer(selectedKey) {
+            const q = questions[currentIndex];
+            answeredQuestions[currentIndex] = selectedKey;
+            
+            if (selectedKey === q.answer) {
+                score++;
+            }
+            showQuestion(currentIndex);
+        }
+
+        prevBtn.onclick = () => {
+            if (currentIndex > 0) showQuestion(currentIndex - 1);
+        };
+
+        nextBtn.onclick = () => {
+            if (currentIndex < questions.length - 1) {
+                showQuestion(currentIndex + 1);
+            } else {
+                alert(`Quiz complete! Final score: ${score}/${questions.length}`);
+            }
+        };
+
+        init();
+    </script>
+</body>
+</html>
